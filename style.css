@@ -1,0 +1,37 @@
+p{
+	text-align:center ;
+	font-size: 25px;
+	color: grey;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: red;
+}
+body {
+	background: black;
+}
+strong{ color: white; 
+      font-size: 40px;
+}
+
+header{
+       strong;
+       background:lightgrey;
+       color: darkgrey;
+       font-size: 40px;
+
+}
+
+li{
+   color:grey;
+font-size: 25px;
+
+}
+espaco{ color: black; 
+      font-size: 30px;
+}
+
+.exmp{
+	font-style: italic;
+}
