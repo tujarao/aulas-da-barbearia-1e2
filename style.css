@@ -1,0 +1,64 @@
+p{
+	text-align:center ;
+	font-size: 25px;
+	color: grey;
+	 padding: 30px;
+
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: red;
+	 padding: 10px;
+}
+body {
+	background: black;
+}
+strong{ color: white; 
+      font-size: 40px;
+}
+
+header{
+       strong;
+       background:lightgrey;
+       color: darkgrey;
+       font-size: 40px;
+       padding: 20px;
+
+}
+
+li{
+   color:grey;
+font-size: 25px;
+
+}
+espaco{ color: black; 
+      font-size: 30px;
+}
+
+.exmp{
+	font-style: italic;
+}
+nav {
+   position: absolute;
+    top: 90px;
+    right: 0px;
+
+}
+
+.caixa{
+	position: relative;
+    width: 940px;
+    margin: 10px auto;
+
+}
+h2{
+
+	color: black;
+	padding: 60px;
+}
+
+a{font-size: 40px;
+color: blue;
+font-style: italic;
+}
